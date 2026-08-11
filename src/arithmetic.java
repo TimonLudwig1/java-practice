@@ -49,6 +49,7 @@ public class arithmetic {
         double result = 3 + 4 * (7-5) / 2.0; 
 
         System.out.println(result);
+        System.out.println(x);
     }
     
 }
