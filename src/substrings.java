@@ -1,4 +1,4 @@
-public class substrings {
+public class Substrings {
     public static void main(String[] args){
         
         // .substring() = A method to extract a portion of a stirng -> .substring(start, end);

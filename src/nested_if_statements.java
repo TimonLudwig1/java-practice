@@ -1,4 +1,4 @@
-public class nested_if_statements {
+public class Nested_if_Statements {
     public static void main(String[] args){
 
         boolean isStudent = true;

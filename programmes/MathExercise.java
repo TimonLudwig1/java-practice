@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class math_exercise {
+public class MathExercise {
     public static void main(String[] args){
 
         // Hypotenuse: c = Math.sqrt(a^2 + b^2)

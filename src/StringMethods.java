@@ -1,4 +1,4 @@
-public class string_methods {
+public class StringMethods {
     public static void main(String[] args){
 
         String name = "Charlie Kirk";
