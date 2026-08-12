@@ -33,5 +33,6 @@ public class WeightConverter {
         else{
             System.out.println("Please enter a valid choice");
         }
+        scanner.close();
     }
 }
