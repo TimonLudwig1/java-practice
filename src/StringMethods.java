@@ -5,7 +5,7 @@ public class StringMethods {
         String name2 = "    Charles Boba    ";
         String name_empty = ""; 
 
-        int lenght = name.length();
+        int length = name.length();
         char letter = name.charAt(0);       // character at index
         int index = name.indexOf("r");          // index of first char
         int lastIndex = name.lastIndexOf("r");  // index of last char 
@@ -23,5 +23,16 @@ public class StringMethods {
         boolean isEqual2 = name.equalsIgnoreCase("charlie kirk");   // equals is case sensitive, so we need a different mehtod
 
         System.out.println(isEqual2);
+        System.out.println(length);
+        System.out.println(letter);
+        System.out.println(index);
+        System.out.println(lastIndex);
+        System.out.println(name_upper);
+        System.out.println(name_lower);
+        System.out.println(name_trimmed);
+        System.out.println(name_replaced);
+        System.out.println(noName);
+        System.out.println(isEqual);
+        System.out.println(contains);
     }
 }

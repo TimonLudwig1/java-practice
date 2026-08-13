@@ -9,23 +9,23 @@ public class Variables {
 
     int age = 21;  // this is decleration: we declare a data type + assignement: give it a value 
     int year = 2026;
-    int quantity = 1;
+    // int quantity = 1;
 
     double price = 19.99;
-    double gpa = 3.5;
-    double temperature = - 12.5;
+    // double gpa = 3.5;
+    // double temperature = - 12.5;
 
     char grade = 'A';
-    char symbol = '!';
-    char currency = '$';
+    // char symbol = '!';
+    // char currency = '$';
 
     boolean isStudent = true;       //in java we use camelCase for names with two words 
-    boolean forSale = false;
-    boolean isOnline = true;
+    // boolean forSale = false;
+    // boolean isOnline = true;
 
-    String name = "Timon Ludwig";
-    String food = "Sandwich"; 
-    String email = "timonludwig1@gmx.de";
+    // String name = "Timon Ludwig";
+    // String food = "Sandwich"; 
+    // String email = "timonludwig1@gmx.de";
     String car = "Mustang";
     String color = "red"; 
 

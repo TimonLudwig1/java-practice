@@ -36,14 +36,13 @@ public class Calculator {
             case '^' -> result = Math.pow(num1, num2);
         
             default -> {
-                System.out.println("Invalid operator!");}
+                System.out.println("Invalid operator!");
                 validOperation = false;
+            }
         }
-
         if(validOperation){
             System.out.println(result);
         }
-
         scanner.close();
     }
 }
