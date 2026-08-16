@@ -11,9 +11,11 @@ public class WhatIsStatic {
     FriendForStatic friend4 = new FriendForStatic("Charlie"); 
     FriendForStatic friend5 = new FriendForStatic("Georg"); 
 
-    // System.out.println(friend1.numOfFriends);
-    // System.out.println(friend2.numOfFriends);
-    // System.out.println(friend3.numOfFriends);
+    System.out.println(friend1.name);
+    System.out.println(friend2.name);
+    System.out.println(friend3.name);
+    System.out.println(friend4.name);
+    System.out.println(friend5.name);
 
     System.out.println(FriendForStatic.numOfFriends);   // we use the class itself to access a static attribute - better for clarity 
 
