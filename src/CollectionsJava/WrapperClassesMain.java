@@ -1,4 +1,4 @@
-package Collections;
+package CollectionsJava;
 
 public class WrapperClassesMain {
     public static void main(String[] args) {
