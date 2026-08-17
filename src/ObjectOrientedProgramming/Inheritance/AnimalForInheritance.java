@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Inheritance;
 
 public class AnimalForInheritance extends Organism {
 

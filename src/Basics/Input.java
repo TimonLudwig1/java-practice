@@ -1,3 +1,4 @@
+package Basics;
 import java.util.Scanner;   //in java we need to import the Scanner object from utils for user imput
 
 public class Input {

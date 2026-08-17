@@ -1,3 +1,4 @@
+package Basics;
 public class Main {
     public static void main(String[] args){         //this always has to be written for a java programm to run 
 

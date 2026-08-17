@@ -1,4 +1,5 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Super;
+
 public class SuperKeyword {
     public static void main(String[] args) {
         
@@ -6,16 +7,16 @@ public class SuperKeyword {
         //         Used in constructors and method overwriting
         //         Calls the parent constructor to initiallize attributes 
 
-        PersonForSuper person = new PersonForSuper("Bobby", "Riddler");
+        Person person = new Person("Bobby", "Riddler");
 
         person.showName();
 
-        StudentForSuper student = new StudentForSuper("Harry", "Tschigerillo", 4.0); 
+        Studen student = new Studen("Harry", "Tschigerillo", 4.0); 
 
         student.showName();
         student.showGpa();
 
-        EmployeeForSuper employee = new EmployeeForSuper("Maggus", "Rühl", 6942); 
+        Employee employee = new Employee("Maggus", "Rühl", 6942); 
         employee.showName();
         employee.showSalary();
     }

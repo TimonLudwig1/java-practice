@@ -1,10 +1,10 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Super;
 
-public class EmployeeForSuper extends PersonForSuper{
+public class Employee extends Person{
 
     int salary; 
 
-    EmployeeForSuper(String first, String last, int salary){
+    Employee(String first, String last, int salary){
         super(first, last);
         this.salary = salary; 
     }

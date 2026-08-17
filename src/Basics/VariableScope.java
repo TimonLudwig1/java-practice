@@ -1,3 +1,4 @@
+package Basics;
 public class VariableScope {
 
     // a class variable is declared inside of a class, but not inside of a method

@@ -1,6 +1,6 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Inheritance;
 
-public class DogForInheritance extends AnimalForInheritance{    //use "extends" for inheritance
+public class Dog extends AnimalForInheritance{    //use "extends" for inheritance
     
     int lives = 1;
 

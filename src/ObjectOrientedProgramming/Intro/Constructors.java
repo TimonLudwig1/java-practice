@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Intro;
 
 public class Constructors {
     public static void main(String[] args) {
@@ -7,8 +7,8 @@ public class Constructors {
         //               You can pass arguments to a constructor
         //               and set up initial values 
 
-        StudentConstructor student1 = new StudentConstructor("Olaf Abi", 55, 3.2); 
-        StudentConstructor student2 = new StudentConstructor("Big Bobber", 21, 1.2); 
+        Student student1 = new Student("Olaf Abi", 55, 3.2); 
+        Student student2 = new Student("Big Bobber", 21, 1.2); 
 
         System.out.println(student1.name);
         System.out.println(student1.age);

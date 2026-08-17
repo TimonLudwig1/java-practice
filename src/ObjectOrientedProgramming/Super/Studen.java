@@ -1,10 +1,10 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Super;
 
-public class StudentForSuper extends PersonForSuper{
+public class Studen extends Person{
     
     double gpa;
 
-    StudentForSuper(String first, String last, double gpa){
+    Studen(String first, String last, double gpa){
         super(first, last); // sending the first an last name to the parent in the childs constructor - with the super() method; super refers to the parent
         this.gpa = gpa; 
     }

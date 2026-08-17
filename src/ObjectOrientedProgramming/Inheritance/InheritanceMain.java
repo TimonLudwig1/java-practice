@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Inheritance;
 
 public class InheritanceMain {
     public static void main(String[] args) {
@@ -6,9 +6,9 @@ public class InheritanceMain {
         // Inheritance = One class inherits the attributes and methods from another class
         //               Child <- Parent <- Grandparent
 
-        DogForInheritance dog = new DogForInheritance();
-        CatForInheritance cat = new CatForInheritance(); 
-        PlantForInheritance plant = new PlantForInheritance(); 
+        Dog dog = new Dog();
+        Cat cat = new Cat(); 
+        Plant plant = new Plant(); 
 
         System.out.println(dog.isAlive);
         System.out.println(cat.isAlive);

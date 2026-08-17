@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Intro;
 public class IntroOOPMain {
     public static void main(String[] args) {
         

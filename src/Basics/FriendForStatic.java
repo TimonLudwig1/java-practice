@@ -1,3 +1,4 @@
+package Basics;
 public class FriendForStatic {
     
     static int numOfFriends;    //with static, all Friends share this variable
