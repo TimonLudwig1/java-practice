@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.AbstractionJava;
+package ObjectOrientedProgramming.Abstraction;
 
 // we add the 'abstract' keyword - we can't create any shape objects
 

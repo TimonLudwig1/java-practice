@@ -1,6 +1,6 @@
-package ObjectOrientedProgramming.AbstractionJava;
+package ObjectOrientedProgramming.Abstraction;
 
-public class Abstraction {
+public class AbstractionMain {
     public static void main(String[] args) {
         
         // abstract = Used to define abstract classes and methods.

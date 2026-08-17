@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.AbstractionJava;
+package ObjectOrientedProgramming.Abstraction;
 
 public class Rectangle extends Shape{
 
