@@ -1,6 +1,6 @@
 package ObjectOrientedProgramming;
 
-public class Inheritance {
+public class InheritanceMain {
     public static void main(String[] args) {
         
         // Inheritance = One class inherits the attributes and methods from another class
