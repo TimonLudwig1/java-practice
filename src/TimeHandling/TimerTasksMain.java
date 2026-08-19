@@ -1,4 +1,4 @@
-package Multithreading;
+package TimeHandling;
 
 import java.util.Timer;
 import java.util.TimerTask;

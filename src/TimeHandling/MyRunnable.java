@@ -1,4 +1,4 @@
-package Multithreading;
+package TimeHandling;
 
 public class MyRunnable implements Runnable {
     
