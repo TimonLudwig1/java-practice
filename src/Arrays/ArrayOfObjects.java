@@ -1,6 +1,6 @@
 package Arrays;
 
-public class ArryOfObjects {
+public class ArrayOfObjects {
     public static void main(String[] args) {
         
         // CarForArrays car1 = new CarForArrays("Audi", "black");
