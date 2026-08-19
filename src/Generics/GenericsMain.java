@@ -1,7 +1,5 @@
 package Generics;
 
-import java.util.ArrayList;
-
 public class GenericsMain {
     public static void main(String[] args) {
         
